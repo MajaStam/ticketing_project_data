@@ -31,4 +31,5 @@ public class TaskDTO {
     private Status taskStatus;
     private LocalDate assignedDate;
 
+
 }
